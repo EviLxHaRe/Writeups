@@ -1,0 +1,13 @@
+# Разветка
+nmap -sV  10.129.108.155
+```bash
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh   OpenSSH 9.6p1 Ubuntu 3ubuntu13.16 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    nginx 1.24.0 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+```
+
+Надо добавить "ip   nexus.htb" в /etc/hosts .
+### Анализ кода страницы 
+Ответ на второй вопрос
+![[Pasted image 20261002160735.png]]
