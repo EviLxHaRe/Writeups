@@ -2,7 +2,7 @@
 Description:
 Use Wireshark
 ```
-# Разведка
+# Разведка и решение
 Откроем pcap файл и посмотрим какие объекты можно экспортировать.
 ```text
 File -> Export Objects -> HTTP
